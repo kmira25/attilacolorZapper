@@ -12,7 +12,7 @@ colorZapper
 Extract colour from user defined areas.
 
 ```R
-remotes::install_github("mpio-be/colorZapper")
+remotes::install_github("kmira25/colorZapper")
 ```
 
 ```R
