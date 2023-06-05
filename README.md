@@ -18,7 +18,7 @@ remotes::install_github("kmira25/attilacolorZapper")
 ```R
 require(colorZapper)
 # path to image directory
-dir = system.file(package = "colorZapper", "sample")
+dir = system.file(package = "colorZapper", "Attila photos jpg")
 # open/create a colorZapper file
 cz_file = tempfile(fileext = '.sqlite')
 CZopen(path = cz_file)
