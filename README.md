@@ -12,7 +12,7 @@ colorZapper
 Extract colour from user defined areas.
 
 ```R
-remotes::install_github("kmira25/colorZapper")
+remotes::install_github("kmira25/attilacolorZapper")
 ```
 
 ```R
